@@ -1,0 +1,32 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #ffe7f0;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Libre Baskerville", serif;
+  text-shadow: 2px 0 #091413;
+  font-size: 6rem;
+  color: #fa699e;
+}
+
+p {
+  font-size: 2rem;
+  color: #ff9fc7;
+  font-family: "Luckiest Guy", cursive;
+}
+
+img {
+  width: 80%;
+}
