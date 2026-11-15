@@ -3,7 +3,7 @@
 A simple two-player dice game.
 Each refresh rolls a die for both players and the page shows who wins.
 
-**Live demo:** https://YOUR-USERNAME.github.io/dicee-game/
+**Live demo:** https://marahm-dev.github.io/dicee-game/
 
 ## Built with
 
